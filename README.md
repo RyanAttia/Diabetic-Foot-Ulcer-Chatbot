@@ -1,4 +1,3 @@
-# Diabetic-Foot-Ulcer-Chatbot
 Diabetic Foot Ulcer (DFU) Risk Prediction System
 ===============================================
 
@@ -10,12 +9,6 @@ The model was trained using the Diabetes 130-US Hospitals dataset, containing ov
 To improve usability, a chatbot intake tool was developed to guide users through a structured questionnaire, validate responses, preprocess inputs, and generate model-ready features in real time. This creates a full end-to-end workflow where user inputs are transformed into a DFU risk prediction in a simple conversational format.
 
 The project demonstrates practical applications of deep learning, healthcare data preprocessing, feature engineering, and conversational AI to build an intelligent healthcare support system for early diabetic foot ulcer risk awareness.
-
-Team Members:
--------------
-Ryan Attia
-Prateek Grover
-Michael Thayer
 
 Project Files:
 --------------
